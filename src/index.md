@@ -6,46 +6,23 @@ pageClass: home
 ---
 ## {{title}}
 
-My Home Page!
-This is the home page. Replace this with your text.
+Space is an extremely high sky. The International Federation of Aeronautics and Astronautics in Geneva, Switzerland defines the boundary between the atmosphere and space: the dividing line at an altitude of 100 kilometers (about 62 miles) above the earth's sea level, called the Carmen line. The Karmen line is named after American scientist Theodore von Karman. Geophysicists divide atmospheric space (or airspace) into 5 layers
 
-### Sass
-[Sass](https://sass-lang.com/) is used for the CSS in this site. Follow that Sass link for more documentation on how it works. Everything has been set up in
+## intergalactic space
 
-* __.eleventy.js__
-* __package.json__: adding Sass node module and the scripts needed for sass to work.
-* __sass folder__: in style.scss all of the partial files (everthing that starts with _) are used with _@use_ so they all get combined into one styles.css file. You can add more partials, just make sure to also add an @use in styles.scss.
+the space with matter and the space between galaxies. Intergalactic space is very close to a complete vacuum , but there is usually still free dust and debris. Between clusters of galaxies, the space called voids is an almost complete vacuum . Some theories hold that the density of one hydrogen atom per cubic meter is equivalent to the average density of the universe [9] [10] . However, the density of the universe is clearly not uniform; its density ranges from very high in galaxies (including in galaxies with high-density structures such as planets, stars, and black holes ) to very low in vast voids , a density well below the cosmic average.
+<figure>
+<img src="/" alt=" ">
+</figure>
 
+## interplanetary space
+the space within the solar system that surrounds the sun and planets. This region is dominated by the interplanetary medium and extends outward all the way to the heliosphere , where the galactic environment begins to affect the flow of particles that accompany and transcend the sun's magnetic field become dominant. Interplanetary space is defined by the solar wind, the continuous stream of charged particles from the sun that creates a thin atmosphere (called the heliosphere) that stretches billions of miles into space. The particle density in the wind is 5-10 protons /cm 3 and it is moving at a speed of 350-400 km/s  . The distance and intensity of the heliosphere are closely related to the degree of solar wind activity . The significance of the discovery of exoplanets since 1995 is that other stars also have the ability to have their own interplanetary medium
+<figure>
+<img src="/" alt=" ">
+</figure>
 
-### Collections
-
-This example site uses two kinds of [Eleventy Collections](https://www.11ty.dev/docs/collections/). 
-
-1. In nav-collection.njk (inside of src/_includes folders), all pages tagged with navItem will show up in the nav. 
-2. In the src/blog folder the index.md file uses a collection of all pages tagged with blog.
-
-If you want to use the nav as is, make sure to add a navItem tag to any page you want to appear in the main navigation (there is no second level navigation).
-
-```
-tags: navItem
-```
-
-The blog example doesn't have to be in a separate folder. It was placed there to help it be visually separated. To add a page to the blog, create a Markdown page and give it a blog tag. 
-
-```
-tags: blog
-```
-
-You may want to have more than one tag for your posts so in that case use one of these syntaxes for multiple tags
-
-```
-tags: 
-    - blog
-    - cats
-```
-
-OR
-
-```
-tags: ["blog", "cats"]
-```
+## earth space
+the region of outer space adjacent to the Earth. The geospace region includes regions of the upper atmosphere, such as the ionosphere and magnetosphere , and the Van Allen radiation belts are also within geospace. The area between Earth's atmosphere and the Moon is sometimes called "Earth-Moon space."
+<figure>
+<img src="/" alt=" ">
+</figure>
