@@ -11,6 +11,7 @@ header{
 h1, h2, h3, h4, h5, h6{
     font-family: 'Alegreya', serif;
 }
+
 body{
     font-family: 'Roboto Mono', monospace;
     margin-left: 20px;
@@ -26,7 +27,7 @@ main{
  align-items: center;
 }
 
-.paragraphLeft{
+.grid1{
     display: grid;
     grid-template-columns: 65% 35%;
     grid-auto-rows: auto;
@@ -35,11 +36,9 @@ main{
     margin: 0 auto; 
     justify-content:center;
 }
-.paragraphRight{
+.grid2{
     display: grid;
-    grid-template-columns: ;
-    display: grid;
-    grid-template-columns: 35% 65%;
+    grid-template-columns: 65% 35%;
     grid-auto-rows: auto;
     height: auto;
     max-width: 1050px;
