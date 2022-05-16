@@ -31,6 +31,7 @@ main{
     display: grid;
     grid-template-columns: 65% 35%;
     grid-auto-rows: auto;
+    grid-gap: 20px;
     height: auto;
     max-width: 1050px;
     margin: 0 auto; 
@@ -40,11 +41,35 @@ main{
     display: grid;
     grid-template-columns: 65% 35%;
     grid-auto-rows: auto;
+    grid-gap: 20px;
     height: auto;
     max-width: 1050px;
     margin: 0 auto; 
     justify-content:center;
    }
+
+.grid3{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-auto-rows: auto;
+    grid-gap: 20px;
+    height: auto;
+    max-width: 1050px;
+    margin: 0 auto; 
+    justify-content:center;
+}
+.grid4{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-auto-rows: auto;
+    grid-gap: 20px;
+    height: auto;
+    max-width: 1050px;
+    margin: 0 auto; 
+    justify-content:center;
+}
+
+
 
 .paragraph img{
     max-width: 367.5px;
