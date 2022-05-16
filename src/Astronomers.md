@@ -38,12 +38,12 @@ the expanse that exists beyond Earth and its atmosphere and between celestial bo
 
 <section class="Astronomer container">
         <div class="title">
-            <h2>Astronomer</h2>
+            <h2>Galileo</h2>
         </div>
 
 <div class="grid-wrapper">
             <div class="grid-box">
-                <img src="" alt="">
+                <img src="images/Galileo.jpg" alt="galileo">
                 <div class="hover">
                     <a href="#" class="highlight">Astronomer1</a>
                 </div>
