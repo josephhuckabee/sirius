@@ -38,43 +38,43 @@ the expanse that exists beyond Earth and its atmosphere and between celestial bo
 
 <section class="Astronomer container">
         <div class="title">
-            <h2>Galileo</h2>
+            <h2>Famous Astronomers</h2>
         </div>
 
 <div class="grid-wrapper">
             <div class="grid-box">
-                <img src="images/Galileo.jpg" alt="galileo">
+                <img src="/images/Galileo.jpg" alt="galileo">
                 <div class="hover">
-                    <a href="#" class="highlight">Astronomer1</a>
+                    <a href="#" class="highlight">Galileo Galilei</a>
                 </div>
             </div>
 <div class="grid-box">
-                <img src="" alt="">
+                <img src="/images/ReneDescartes.png" alt="rene">
                 <div class="hover">
-                    <a href="#" class="highlight">Astronomer2</a>
+                    <a href="#" class="highlight">René Descartes</a>
                 </div>
             </div>
 <div class="grid-box">
-                <img src="" alt="">
+                <img src="/images/Gottfried_Wilhelm_Leibniz.jpg" alt="leibniz">
                 <div class="hover">
-                    <a href="#" class="highlight">Astronomer3</a>
+                    <a href="#" class="highlight">Gottfried Wilhelm Leibniz</a>
                 </div>
             </div>
 <div class="grid-box">
-                <img src="" alt="">
+                <img src="/images/isaac-newton-g47c280021_1280.png" alt="newton">
                 <div class="hover">
-                    <a href="#" class="highlight">Astronomer4</a>
+                    <a href="#" class="highlight">Isaac Newton</a>
                 </div>
             </div>
 <div class="grid-box">
-                <img src="" alt="">
+                <img src="/images/EmanuilKant.jpg" alt="kant">
                 <div class="hover">
-                    <a href="#" class="highlight">Astronomer5</a>
+                    <a href="#" class="highlight">Immanuel Kant</a>
                 </div>
             </div>
 <div class="grid-box">
-                <img src="" alt="">
+                <img src="/images/Einstein.jpg" alt="einstein">
                 <div class="hover">
-                    <a href="#" class="highlight">Astronomer6</a>
+                    <a href="#" class="highlight">Albert Einstein</a>
                 </div>
             </div>
