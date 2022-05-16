@@ -1,11 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:wght@500&family=Roboto+Mono:wght@500&display=swap');
+// roboto + alegreya
+
 header{
     justify-content: center;
     margin-left: auto;
    margin-right:auto;
+   background-color: #000;
 }
 
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Alegreya', serif;
+}
 body{
-   font-family: garamond;
+    font-family: 'Roboto Mono', monospace;
     margin-left: 20px;
    margin-right:20px;
 }
