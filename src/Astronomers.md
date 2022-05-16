@@ -1,8 +1,8 @@
 ---
-title: Space
+title: Astronomers
 layout: base.njk
 tags: navItem
-pageClass: Space
+pageClass: Astronomers
 ---
 
 ## {{title}}

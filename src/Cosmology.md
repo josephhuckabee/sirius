@@ -1,8 +1,8 @@
 ---
-title: About
+title: Cosmology
 layout: base.njk
 tags: navItem
-pageClass: about
+pageClass: Cosmology
 ---
 ## {{title}}
 
