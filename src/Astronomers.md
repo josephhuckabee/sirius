@@ -43,7 +43,7 @@ the expanse that exists beyond Earth and its atmosphere and between celestial bo
 
 <div class="grid-wrapper">
             <div class="grid-box">
-                <img src="/images/Galileo.jpg" alt="galileo">
+                <img src="/images/Galileo_Galilei.jpg" alt="galileo">
                 <div class="hover">
                     <a href="#" class="highlight">Galileo Galilei</a>
                 </div>
