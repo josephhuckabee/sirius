@@ -130,6 +130,24 @@ main{
     justify-content:center;
 
 }
+
+.accordion{
+    outline: 1px solid #333;
+    font-family: sans-serif;
+  }
+  .accordion-header{
+    background-color: #555;
+    color: #fff;
+    padding:.5rem;
+    cursor:pointer;
+  }
+  .accordion-item{
+    padding: .5rem;
+    line-height: 1.5;
+    font-family: sans-serif;
+  }
+
+  
 footer{
     text-align: center;
 }
