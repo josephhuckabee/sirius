@@ -1,8 +1,8 @@
 ---
-title: About
+title: Cosmology
 layout: base.njk
 tags: navItem
-pageClass: about
+pageClass: Cosmology
 ---
 ## {{title}}
 
@@ -11,7 +11,7 @@ Outer space refers to the area of ​​space outside the Earth's dense atmosphe
 <div class="grid-wrapper">
             <div class="grid-box">
                 <div class="hover">
-                    <a href="#" class="highlight">History</a>
+                    <a href="#" class="highlight">NASA</a>
                 </div>
                 <p>The first spacecraft to reach escape velocity was the Soviet Luna 1, which performed a fly-by of the Moon in 1959.[148] In 1961, Venera 1 became the first planetary probe. It revealed the presence of the solar wind and performed the first fly-by of Venus, although contact was lost before reaching Venus. The first successful planetary mission was the 1962 fly-by of Venus by Mariner 2.[149] The first fly-by of Mars was by Mariner 4 in 1964. Since that time, uncrewed spacecraft have successfully examined each of the Solar System's planets, as well their moons and many minor planets and comets.</p>
             </div>

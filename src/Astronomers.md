@@ -1,18 +1,18 @@
 ---
-title: Space
+title: Astronomers
 layout: base.njk
 tags: navItem
-pageClass: Space page
+pageClass: Astronomers
 ---
 
 ## {{title}}
 
 the expanse that exists beyond Earth and its atmosphere and between celestial bodies. Outer space is not completely empty—it is a hard vacuum containing a low density of particles, predominantly a plasma of hydrogen and helium, as well as electromagnetic radiation, magnetic fields, neutrinos, dust, and cosmic rays. The baseline temperature of outer space, as set by the background radiation from the Big Bang, is 2.7 kelvins (−270.45 °C; −454.81 °F). The plasma between galaxies is thought to account for about half of the baryonic (ordinary) matter in the universe, having a number density of less than one hydrogen atom per cubic metre and a temperature of millions of kelvins. Local concentrations of matter have condensed into stars and galaxies. Studies indicate that 90% of the mass in most galaxies is in an unknown form, called dark matter, which interacts with other matter through gravitational but not electromagnetic forces. Observations suggest that the majority of the mass-energy in the observable universe is dark energy, a type of vacuum energy that is poorly understood. Intergalactic space takes up most of the volume of the universe, but even galaxies and star systems consist almost entirely of empty space.
 
-<section class="NASA container">
+<section class="History container">
         <div class="rect-bg"></div>
         <div class="title">
-            <h3>NASA</h3>
+            <h3>History</h3>
         </div>
 
 <div class="grid-wrapper">
@@ -39,43 +39,43 @@ the expanse that exists beyond Earth and its atmosphere and between celestial bo
 
 <section class="Astronomer container">
         <div class="title">
-            <h2>Astronomer</h2>
+            <h2>Famous Astronomers</h2>
         </div>
 
 <div class="grid-wrapper">
             <div class="grid-box">
-                <img src="" alt="">
+                <img src="/images/Galileo_Galilei.jpg" alt="galileo">
                 <div class="hover">
-                    <a href="#" class="highlight">Astronomer1</a>
+                    <a href="#" class="highlight">Galileo Galilei</a>
                 </div>
             </div>
 <div class="grid-box">
-                <img src="" alt="">
+                <img src="/images/ReneDescartes.png" alt="rene">
                 <div class="hover">
-                    <a href="#" class="highlight">Astronomer2</a>
+                    <a href="#" class="highlight">René Descartes</a>
                 </div>
             </div>
 <div class="grid-box">
-                <img src="" alt="">
+                <img src="/images/Gottfried_Wilhelm_Leibniz.jpg" alt="leibniz">
                 <div class="hover">
-                    <a href="#" class="highlight">Astronomer3</a>
+                    <a href="#" class="highlight">Gottfried Wilhelm Leibniz</a>
                 </div>
             </div>
 <div class="grid-box">
-                <img src="" alt="">
+                <img src="/images/isaac-newton-g47c280021_1280.png" alt="newton">
                 <div class="hover">
-                    <a href="#" class="highlight">Astronomer4</a>
+                    <a href="#" class="highlight">Isaac Newton</a>
                 </div>
             </div>
 <div class="grid-box">
-                <img src="" alt="">
+                <img src="/images/EmanuilKant.jpg" alt="kant">
                 <div class="hover">
-                    <a href="#" class="highlight">Astronomer5</a>
+                    <a href="#" class="highlight">Immanuel Kant</a>
                 </div>
             </div>
 <div class="grid-box">
-                <img src="" alt="">
+                <img src="/images/Einstein.jpg" alt="einstein">
                 <div class="hover">
-                    <a href="#" class="highlight">Astronomer6</a>
+                    <a href="#" class="highlight">Albert Einstein</a>
                 </div>
             </div>
