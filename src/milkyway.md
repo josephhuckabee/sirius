@@ -16,48 +16,68 @@ pageClass: Cosmology
 </div>
 </section>
 <h3>moons</h3>
+<p>There are 181 confirmed moons in the Milky Way but astronomers believe there is well over 200. Here is a list of the most famous moons in our solar system.</p>
+
 <section class="grid4">
 <div class="location">
-our moon
+<h5>Mercury</h5> Zero Moons
 </div>
 <div class="location">
-moon
+<h5>Venus</h5> Zero Moons
 </div>
 <div class="location">
-moon
+<h5>Earth</h5> Luna 
 </div>
 <div class="location">
-moon
-
+<h5>Mars</h5> Deimus + Phobos 
+</div>
+<div class="location">
+<h5>Jupiter</h5> 79 Moons!
+</div>
+<div class="location">
+<h5>Saturn</h5> 82 Moons!
+</div>
+<div class="location">
+<h5>Uranus</h5> 27 Moons
+</div>
+<div class="location">
+<h5>Neptune</h5> 14 Moons
+</div>
+<div class="location">
+<h5>Pluto</h5> 5 Moons
 </div>
 </section>
+
 <h3>Planets</h3>
 <section class="grid4">
 <div class="planet">
-1
+Mercury
 </div>
 <div class="planet">
-2
+Venus
 </div>
 <div class="planet">
-3
+Earth
 </div>
 <div class="planet">
-4
+Mars
 </div>
 <div class="planet">
-5
+Jupiter
 </div>
 <div class="planet">
-6
+Saturn
 </div>
 <div class="planet">
-7
+Uranus
 </div>
 <div class="planet">
-8
+Neptune
 </div>
 <div class="planet">
-9
+Pluto
+</div>
+<div class="planet">
+There are Dwarf Planets in our system. <br> Ceres, Pluto, Haumea, Makemake and Eris.
 </div>
 </section>
