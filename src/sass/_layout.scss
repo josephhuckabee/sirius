@@ -108,6 +108,28 @@ main{
     padding: 30px;
 }
 
+.astrogrid{
+    display: grid;
+    grid-template-columns: 33.333% 33.333% 33.333%;
+    grid-auto-rows: auto;
+    grid-gap: 20px;
+    height: auto;
+    max-width: 1050px;
+    margin: 0 auto; 
+    justify-content:center;
+}
+
+.expogrid{
+    display: grid;
+    grid-template-columns: 33.333% 33.333% 33.333%;
+    grid-auto-rows: auto;
+    grid-gap: 20px;
+    height: auto;
+    max-width: 1050px;
+    margin: 0 auto; 
+    justify-content:center;
+
+}
 footer{
     text-align: center;
 }

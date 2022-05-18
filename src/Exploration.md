@@ -6,6 +6,12 @@ pageClass: Exploration
 ---
 ## {{title}}
 
+<section class="expogrid">
+<div class="exploration">
 What have we done?
+</div>
 What are we doing?
-What are we planning one doing?
+<div class="exploration">
+What do we have planned to do?
+</div>
+</section>
