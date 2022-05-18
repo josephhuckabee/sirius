@@ -1,0 +1,88 @@
+
+.grid1{
+    display: grid;
+    grid-template-columns: 65% 35%;
+    grid-auto-rows: auto;
+    grid-gap: 20px;
+    height: auto;
+    max-width: 1050px;
+    margin: 0 auto; 
+    justify-content:center;
+}
+.grid2{
+    display: grid;
+    grid-template-columns: 65% 35%;
+    grid-auto-rows: auto;
+    grid-gap: 20px;
+    height: auto;
+    max-width: 1050px;
+    margin: 0 auto; 
+    justify-content:center;
+   }
+
+.grid3{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-auto-rows: auto;
+    grid-gap: 20px;
+    height: auto;
+    max-width: 1050px;
+    margin: 0 auto; 
+    justify-content:center;
+}
+.grid4{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-auto-rows: auto;
+    grid-gap: 20px;
+    height: auto;
+    max-width: 1050px;
+    margin: 0 auto; 
+    justify-content:center;
+}
+
+.event{
+ display: grid;
+ grid-template-columns: 33.333% 33.333% 33.333%;
+ grid-auto-rows: auto;
+ height: auto;
+ max-width: 350px;
+ margin: 0 auto; 
+ justify-content:center;
+}
+
+.astronomer{
+    display: grid;
+    grid-template-columns: 33.333% 33.333% 33.333%;
+    grid-auto-rows: auto;
+    height: auto;
+    max-width: 350px;
+    margin: 0 auto; 
+    justify-content:center;
+    padding: 30px;
+}
+
+.object{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-auto-rows: auto;
+    height: auto;
+    max-width: 350px;
+    margin: 0 auto; 
+    justify-content:center;
+    padding: 30px;
+}
+
+
+
+
+.astrogrid{
+    display: grid;
+    grid-template-columns: 33.333% 33.333% 33.333%;
+    grid-auto-rows: auto;
+    grid-gap: 20px;
+    height: auto;
+    max-width: 1050px;
+    margin: 0 auto; 
+    justify-content:center;
+}
