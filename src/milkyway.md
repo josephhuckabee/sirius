@@ -1,8 +1,8 @@
 ---
-title: Our Home
+title: MilyWay
 layout: base.njk
 tags: navItem
-pageClass: Cosmology
+pageClass: Milky Way
 ---
 ## {{title}}
 <section class="bio">
