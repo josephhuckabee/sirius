@@ -11,19 +11,19 @@ Outer space refers to the area of ​​space outside the Earth's dense atmosphe
 </section>
 <section class="grid3">
 <div class="object">
-<img src="/"><br>
+<img src="/images/universe.jpeg"><br>
 universe
 </div>
 <div class="object">
-<img src="/"><br>
+<img src="/images/star.jpeg"><br>
 star
 </div>
 <div class="object">
-<img src="/"><br>
+<img src="/images/jupiter.jpeg"><br>
 planet
 </div>
 <div class="object">
-<img src="/"><br>
+<img src="/images/moon.jpeg"><br>
 moon
 </div>
 </section>
@@ -34,15 +34,15 @@ moon
 
 </div>
 <div class="object">
-<img src="/"><br>
+<img src="/images/galaxy.jpeg"><br>
 galaxy
 </div>
 <div class="object">
-<img src="/"><br>
+<img src="/images/blackhole.jpeg"><br>
 black holes
 </div>
 <div class="object">
-<img src="/"><br>
+<img src="/images/meteor.png"><br>
 meteor
 </div>
 </section>
