@@ -1,33 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Alegreya:wght@500&family=Roboto+Mono:wght@500&display=swap');
-// roboto + alegreya
-
-header{
-    justify-content: center;
-    margin-left: auto;
-   margin-right:auto;
-   background-color: #000;
-   width: 100%;
-
-}
-
-h1, h2, h3, h4, h5, h6{
-    font-family: 'Alegreya', serif;
-}
-
-body{
-    font-family: 'Roboto Mono', monospace;
-    margin-left: 20px;
-   margin-right:20px;
-}
-
-main{
-    padding: 5px;
-}
-
-.about{
- width: 100%;
- align-items: center;
-}
 
 .grid1{
     display: grid;
@@ -71,26 +41,6 @@ main{
     justify-content:center;
 }
 
-.grid5{
-    display: grid;
-    grid-template-columns: 25% 25% 25% 25%;
-    grid-auto-rows: auto;
-    grid-gap: 20px;
-    height: auto;
-    max-width: 1050px;
-    margin: 0 auto; 
-    justify-content:center;
-    padding: 30px;
-
-}
-
-
-
-.paragraph img{
-    max-width: 367.5px;
-
-}
-
 .event{
  display: grid;
  grid-template-columns: 33.333% 33.333% 33.333%;
@@ -123,6 +73,9 @@ main{
     padding: 30px;
 }
 
+
+
+
 .astrogrid{
     display: grid;
     grid-template-columns: 33.333% 33.333% 33.333%;
@@ -132,37 +85,4 @@ main{
     max-width: 1050px;
     margin: 0 auto; 
     justify-content:center;
-}
-
-.expogrid{
-    display: grid;
-    grid-template-columns: 33.333% 33.333% 33.333%;
-    grid-auto-rows: auto;
-    grid-gap: 20px;
-    height: auto;
-    max-width: 1050px;
-    margin: 0 auto; 
-    justify-content:center;
-
-}
-
-// .accordion{
-//     outline: 1px solid #333;
-//     font-family: sans-serif;
-//   }
-//   .accordion-header{
-//     background-color: #555;
-//     color: #fff;
-//     padding:.5rem;
-//     cursor:pointer;
-//   }
-//   .accordion-item{
-//     padding: .5rem;
-//     line-height: 1.5;
-//     font-family: sans-serif;
-//   }
-
-  
-footer{
-    text-align: center;
 }
