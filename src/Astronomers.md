@@ -14,25 +14,25 @@ the expanse that exists beyond Earth and its atmosphere and between celestial bo
 Astronomer 1
 </div>
 <div class="astros">
-<img src="/images/">
+<img src="/images/Einstein.jpg">
 Astronomer 2
 </div>
 <div class="astros">
-<img src="/images/">
+<img src="/images/Galileo.jpg">
 Astronomer 3
 </div>
 </section>
 <section class="astrogrid">
 <div class="astros">
-<img src="/images/">
+<img src="/images/Gaus.jpg">
 Astronomer 4
 </div>
 <div class="astros">
-<img src="/images/">
+<img src="/images/gottfried.jpg">
 Astronomer 5
 </div>
 <div class="astros">
-<img src="/images/">
+<img src="/images/rene.png">
 Astronomer 6
 </div>
 </section>
