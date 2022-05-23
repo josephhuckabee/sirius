@@ -5,47 +5,7 @@ tags: navItem
 pageClass: Astronomers
 ---
 
-## {{title}}
 
-The expanse that exists beyond Earth and its atmosphere and between celestial bodies. Outer space is not completely empty—it is a hard vacuum containing a low density of particles, predominantly a plasma of hydrogen and helium, as well as electromagnetic radiation, magnetic fields, neutrinos, dust, and cosmic rays. The baseline temperature of outer space, as set by the background radiation from the Big Bang, is 2.7 kelvins (−270.45 °C; −454.81 °F). The plasma between galaxies is thought to account for about half of the baryonic (ordinary) matter in the universe, having a number density of less than one hydrogen atom per cubic metre and a temperature of millions of kelvins. Local concentrations of matter have condensed into stars and galaxies. Studies indicate that 90% of the mass in most galaxies is in an unknown form, called dark matter, which interacts with other matter through gravitational but not electromagnetic forces. Observations suggest that the majority of the mass-energy in the observable universe is dark energy, a type of vacuum energy that is poorly understood. Intergalactic space takes up most of the volume of the universe, but even galaxies and star systems consist almost entirely of empty space.
-
-<section class="History container">
-        <div class="rect-bg"></div>
-        <div class="title">
-            <h3>History</h3>
-        </div>
-
-<div class="grid-wrapper">
-            <div class="grid-box">
-                <div class="hover">
-                    April 22, 2021 <i class="fa fa-arrow-right"></i></
-                </div>
-                The first core stage of NASA's Space Launch System rocket departs Stennis Space Center aboard the agency's Pegasus barge, bound for Kennedy Space Center where it will be prepared for launch on the Artemis I mission to the Moon. Departure of the stage closes a historic chapter of work at the nation's largest propulsion test site, where the flight unit underwent a comprehensive series of Green Run tests of its integrated systems. The series of tests on the B-2 Test Stand at Stennis culminated with a historic hot fire of the stage's four RS-25 engines, just as during an actual launch.
-                <p>
-                <a href ="https://www.nasa.gov/feature/barging-in-artemis-i-core-stage-arrives-at-kennedy"> "NASA's Kennedy Space Center"  </a> , April 22, 2021 by Tiffany Fairley
-                </p>
-            </div>
-
-<div class="grid-box">
-                <div class="hover">
-                     <i class="fa fa-arrow-right"></i></a>
-                </div>
-                <p>NASA conducts a full-duration hot fire of more than 8 minutes of its Space Launch System core stage on March 18 on the B-2 Test Stand at Stennis Space Center. All four RS-25 engines fire successfully, producing a combined 1.6 million pounds of thrust, just as during an actual launch. The hot fire marks the culmination of a Green Run series of tests on the stage and its integrated systems. It also represents the most powerful test conducted at Stennis in more than 40 years.</p>
-                <p>
-                <a href ="https://www.nasa.gov/press-release/nasa-mega-moon-rocket-passes-key-test-readies-for-launch"> "NASA Mega Moon Rocket"  </a> , Mar 18, 2021 by Robert Markowitz
-                </p>
-     </div>
-
-<div class="grid-box">
-                <div class="hover">
-                    <i class="fa fa-arrow-right"></i></a>
-                </div>
-                <p>NASA conducts the first hot fire in a new RS-25 single-engine test series on the A-1 Test Stand at Stennis Space Center. The test of RS-25 developmental engine No. 0528 marks the beginning of a seven-test series designed to provide valuable data to Aerojet Rocketdyne, lead contractor for SLS engines, as the company begins production of new RS-25 engines. NASA's Space Launch System rocket is powered, in part, by four RS-25 engines generating 1.6 million pounds of combined thrust at launch.</p>
-                <p>
-                <a href ="https://www.nasa.gov/centers/stennis/news/releases/2021/NASA-Conducts-1st-Hot-Fire-of-New-RS-25-Engine-Test-Series"> "NASA Conducts 1st Hot Fire" </a> , Jan 28, 2021 by Valerie Buckingham
-                </p>
-     </div>
-</section>
   <div class="title">
             <h2>Famous Astronomers</h2>
         </div>
