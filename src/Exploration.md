@@ -4,7 +4,6 @@ layout: base.njk
 tags: navItem
 pageClass: Exploration
 ---
-## {{title}}
 
 ### Our Solar System
 the gravitationally bound system of the Sun and the objects that orbit it. The Solar System formed 4.6 billion years ago from the gravitational collapse of a giant interstellar molecular cloud. The vast majority of the system's mass is in the Sun, with most of the remaining mass contained in the planet Jupiter. The four inner system planets—Mercury, Venus, Earth and Mars—are terrestrial planets, being composed primarily of rock and metal. The four giant planets of the outer system are substantially larger and more massive than the terrestrials. The two largest, Jupiter and Saturn, are gas giants, being composed mainly of hydrogen and helium; the next two, Uranus and Neptune, are ice giants, being composed mostly of volatile substances with relatively high melting points compared with hydrogen and helium, such as water, ammonia and methane. All eight planets have nearly circular orbits that lie close to the plane of the Earth's orbit, called the ecliptic.
@@ -74,7 +73,10 @@ The expanse that exists beyond Earth and its atmosphere and between celestial bo
 What have we done?
 </div>
 What are we doing?
-<div class="exploration">
+</h3>
+<p></p>
+<h3>
 What do we have planned to do?
-</div>
+</h3><p>In February 2017, Elon Musk announced that substantial deposits from two individuals had been received by SpaceX for a Moon loop flight using a free return trajectory and that this could happen as soon as late 2018.[53] Musk said that the cost of the mission would be "comparable" to that of sending an astronaut to the International Space Station, about US$70 million in 2017.[54] In February 2018, Musk announced that the Falcon Heavy rocket would not be used for crewed missions.[55][56] The proposal changed in 2018 to use the Starship launch system instead.[10][55][56] In September 2018, Musk revealed the passenger for the trip, Yusaku Maezawa during a livestream. Yusaku Maezawa described the plan for his trip in further detail, dubbed the #dearMoon project, intending to take 6–8 artists with him on the journey to inspire the artists to create new art.[57]
+Space Adventures Ltd. have announced that they are working on DSE-Alpha, a circumlunar mission to the Moon, with the price per passenger being $100,000,000.[58]</p>
 </section>

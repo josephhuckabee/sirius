@@ -1,12 +1,17 @@
 /*@import url('https://fonts.googleapis.com/css2?family=Alegreya:wght@500&family=Roboto+Mono:wght@500&display=swap');
 // roboto + alegreya*/
 
+*{
+    background-color: #000;
+    color: #f5f2f0;
+}
 header{
+
     justify-content: center;
-    margin-left: auto;
-   margin-right:auto;
+    margin: 0;
    background-color: #000;
    width: 100%;
+   height: 100%;
 
 }
 
@@ -26,7 +31,8 @@ body{
 }
 
 main{
-    padding: 0px;
+    padding: 20px;
+    margin-top: 20px;
 }
 
 .about{
@@ -34,15 +40,31 @@ main{
  align-items: center;
 }
 
+.biogrid{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-auto-rows: auto;
+    grid-gap: 20px;
+    height: auto;
+    // max-width: 1050px;
+    margin: 0 auto; 
+    justify-content:center;
+    padding: 40px;
+}
+
+.milky{
+    max-width: 450px;
+}
 .grid1{
     display: grid;
     grid-template-columns: 65% 35%;
     grid-auto-rows: auto;
     grid-gap: 20px;
     height: auto;
-    max-width: 1050px;
+    // max-width: 1050px;
     margin: 0 auto; 
     justify-content:center;
+    padding: 40px;
 }
 .grid2{
     display: grid;
@@ -50,20 +72,22 @@ main{
     grid-auto-rows: auto;
     grid-gap: 20px;
     height: auto;
-    max-width: 1050px;
+    // max-width: 1050px;
     margin: 0 auto; 
     justify-content:center;
    }
 
 .grid3{
     display: grid;
-    grid-template-columns: 25% 25% 25% 25%;
+    // grid-template-columns: 35% 65%;
     grid-auto-rows: auto;
     grid-gap: 20px;
     height: auto;
-    max-width: 1050px;
+    // max-width: 1050px;
     margin: 0 auto; 
     justify-content:center;
+    width: 100%;
+    padding: 20px;
 }
 .grid4{
     display: grid;
@@ -71,7 +95,7 @@ main{
     grid-auto-rows: auto;
     grid-gap: 20px;
     height: auto;
-    max-width: 1050px;
+    // max-width: 1050px;
     margin: 0 auto; 
     justify-content:center;
 }
@@ -82,7 +106,7 @@ main{
     grid-auto-rows: auto;
     grid-gap: 20px;
     height: auto;
-    max-width: 1050px;
+    // max-width: 1050px;
     margin: 0 auto; 
     justify-content:center;
     padding: 30px;
@@ -91,24 +115,24 @@ main{
 
 
 
-.paragraph img{
-    max-width: 367.5px;
+// .paragraph img{
+//     max-width: 367.5px;
 
-}
+// }
 
 .event{
  display: grid;
  grid-template-columns: 33.333% 33.333% 33.333%;
  grid-auto-rows: auto;
  height: auto;
- max-width: 350px;
+//  max-width: 350px;
  margin: 0 auto; 
  justify-content:center;
 }
 
 .astronomer{
     display: grid;
-    grid-template-columns: 33.333% 33.333% 33.333%;
+    // grid-template-columns: 33.333% 33.333% 33.333%;
     grid-auto-rows: auto;
     height: auto;
     max-width: 350px;
@@ -118,25 +142,43 @@ main{
 }
 
 .object{
-    display: grid;
-    grid-template-columns: 50% 50%;
-    grid-auto-rows: auto;
-    height: auto;
-    max-width: 350px;
+ max-width: 350px;
     margin: 0 auto; 
     justify-content:center;
     padding: 30px;
+    align-items: center;
+
 }
 
+.sun{
+    max-width:450px;
+    margin: 0 auto; 
+    justify-content:center;
+    padding: 30px;
+    align-items: center;
+}
+
+
+.container{
+    // border-style: solid;
+    // border-radius: 10px 10px 10px 10px;
+    // border-color: #fff;
+     padding: 20ox;
+}
 .astrogrid{
     display: grid;
-    grid-template-columns: 33.333% 33.333% 33.333%;
+    // grid-template-columns: 50% 50%;
     grid-auto-rows: auto;
     grid-gap: 20px;
     height: auto;
-    max-width: 1050px;
+    // max-width: 1050px;
     margin: 0 auto; 
     justify-content:center;
+}
+.astros{
+    padding:30px;
+    // margin: auto;
+   
 }
 
 .expogrid{
@@ -145,7 +187,7 @@ main{
     grid-auto-rows: auto;
     grid-gap: 20px;
     height: auto;
-    max-width: 1050px;
+    // max-width: 1050px;
     margin: 0 auto; 
     justify-content:center;
 

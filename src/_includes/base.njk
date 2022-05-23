@@ -1,5 +1,5 @@
 ---
-siteName: YourSiteName
+siteName: Sirius
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -21,17 +21,17 @@ siteName: YourSiteName
 
   <link rel="stylesheet" href="/css/style.css">
 </head>
+<header class="site-header">
+  {% include "nav-basic.njk" %}
+       </header>
 <body>
-  <header class="site-header">
-        <!-- add site wide header content here -->
-        {% include "nav-basic.njk" %}
-  </header>
+
 
   <main class="{{ pageClass }}">
     {{ content | safe }}
   </main>
   
-  <footer class="site-footer">
+  <footer>
     <div>
       <p>&copy; SIRIUS 2022</p>
       <!-- You can change all of this footer content. -->
