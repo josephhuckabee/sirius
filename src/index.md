@@ -3,15 +3,27 @@ title:
 layout: base.njk
 tags: navItem
 pageClass: home
----
+
 <section class="parallax">
-<img src="/images/cosmos-gb472637dd_1920.jpg" alt="bkgd">
-<img src="/images/nasa-Yj1M5riCKk4-unsplash.jpg" alt="solar" >
-<img src="/images/nasa-earth.png" alt="earth">
+<img src="/images/cosmos-gb472637dd_1920.jpg" id="backgr">
+<img src="/images/nasa-Yj1M5riCKk4-unsplash.jpg" id="ast" >
+<img src="/images/nasa-earth.png" id="earth">
 <h2 id="text"> SIRIUS</h2>
 </section>
 <script type="text/javascript">
-    let bg=document.getElementById()
+    let backgr = document.getElementById("backgr");
+    let ast = document.getElementById("ast");
+    let earth = document.getElementById("earth");
+    let text = document.getElementById("text");
+
+window.addEventListener('scroll',function(){
+    var value = window.scrollY;
+
+   backgr.style.top = value * 0.5 + 'px'; 
+   ast.style.left = -value * 0.15 + 'px'; 
+   earth.style.top = value * 0.15 + 'px'; 
+   text.style.top = value * 1 + px; 
+})
 
 Space is an extremely high sky. The International Federation of Aeronautics and Astronautics in Geneva, Switzerland defines the boundary between the atmosphere and space: the dividing line at an altitude of 100 kilometers (about 62 miles) above the earth's sea level, called the Carmen line. The Karmen line is named after American scientist Theodore von Karman. Geophysicists divide atmospheric space (or airspace) into 5 layers
 
