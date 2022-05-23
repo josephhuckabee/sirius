@@ -1,51 +1,53 @@
 ---
-title: MilyWay
+title: Milkyway
 layout: base.njk
 tags: navItem
-pageClass: Milky Way
+pageClass: Milkyway
 ---
-<main><section class="bio">
+<main>
 <h1>Where do we live?</h1>
-<div class="biogrid">
-<div>
+<section class="biogrid">
+<div class="type">
 <p>Earth is located in one of the spiral arms of the Milky Way (called the Orion Arm) which lies about two-thirds of the way out from the center of the Galaxy. Here we are part of the Solar System - a group of eight planets, as well as numerous comets and asteroids and dwarf planets which orbit the Sun.the gravitationally bound system of the Sun and the objects that orbit it. The Solar System formed 4.6 billion years ago from the gravitational collapse of a giant interstellar molecular cloud. The vast majority of the system's mass is in the Sun, with most of the remaining mass contained in the planet Jupiter. The four inner system planets—Mercury, Venus, Earth and Mars—are terrestrial planets, being composed primarily of rock and metal. The four giant planets of the outer system are substantially larger and more massive than the terrestrials. The two largest, Jupiter and Saturn, are gas giants, being composed mainly of hydrogen and helium; the next two, Uranus and Neptune, are ice giants, being composed mostly of volatile substances with relatively high melting points compared with hydrogen and helium, such as water, ammonia and methane. All eight planets have nearly circular orbits that lie close to the plane of the Earth's orbit, called the ecliptic.</p>
-</div><div><img src="/images/milkyway.png"></div>
+</div><div class="milky"><img src="/images/milkyway.png"></div>
 </section>
-<div class="sun"><h3>stars</h3><br><img src="/images/sun.jpeg"></div>
+<div class="sun"><h3>stars</h3><br><img src="/images/sun.jpeg"><br>Age	At least 4.5 billion years, in present state.<hr>
+Diameter	1.39 X 10^6 km (or 109 times the diameter of the Earth and 9.75 times the diameter of Jupiter)<hr>
+Volume	1.41 X 10^33 cm^3 (or 1.3 million times the volume of the Earth)<hr>
+Mass	1.99 X 10^30 kg (or 333,000 times the weight of the Earth)</div>
 <section class="grid4">
 <div class="location">
-
-</div>
-</section>
 <h3>moons</h3>
 <p>There are 181 confirmed moons in the Milky Way but astronomers believe there is well over 200. Here is a list of the most famous moons in our solar system.</p>
+</div>
+</section>
 <section class="grid4">
 <div class="location">
-<h5>Mercury</h5> Zero Moons
+<h3>Mercury</h3> Zero Moons
 </div>
 <div class="location">
-<h5>Venus</h5> Zero Moons
+<h3>Venus</h3> Zero Moons
 </div>
 <div class="location">
-<h5>Earth</h5> Luna 
+<h3>Earth</h3> Luna 
 </div>
 <div class="location">
-<h5>Mars</h5> Deimus + Phobos 
+<h3>Mars</h3> Deimus + Phobos 
 </div>
 <div class="location">
-<h5>Jupiter</h5> 79 Moons!
+<h3>Jupiter</h3> 79 Moons!
 </div>
 <div class="location">
-<h5>Saturn</h5> 82 Moons!
+<h3>Saturn</h3> 82 Moons!
 </div>
 <div class="location">
-<h5>Uranus</h5> 27 Moons
+<h3>Uranus</h3> 27 Moons
 </div>
 <div class="location">
-<h5>Neptune</h5> 14 Moons
+<h3>Neptune</h3> 14 Moons
 </div>
 <div class="location">
-<h5>Pluto</h5> 5 Moons
+<h3>Pluto</h3> 5 Moons
 </div>
 </section>
 
@@ -53,7 +55,7 @@ pageClass: Milky Way
 <h1>Our Cellestial Neighbors</h1>
 <section class="grid4">
 <div class="planet">
-<h5>Mercury</h5>
+<h3>Mercury</h3>
 <h6>Structure and Surface</h6>
 Mercury is the smallest planet in our solar system.
 Mercury is a terrestrial planet. It is small and rocky.
@@ -68,7 +70,7 @@ Mercury has been known since ancient times because it can be seen without advanc
 Mercury has been visited by two spacecraft: Mariner 10 and MESSENGER.
 </div>
 <div class="planet">
-Venus
+<h3>Venus</h3>
 Structure and Surface
 Venus is the hottest planet in our solar system.
 Venus is a terrestrial planet. It is small and rocky.
@@ -85,7 +87,7 @@ Venus has been known since ancient times because it can be seen easily without a
 Venus has been visited by several spacecraft: Mariner 2, Mariner 5, Mariner 10, Pioneer Venus 1, Pioneer Venus 2, and an orbiter called Magellan.
 </div>
 <div class="planet">
-<h5>Earth</h5>
+<h3>Earth</h3>
 <h6>Structure and Surface</h6>
 Earth is a terrestrial planet. It is small and rocky.
 Earth's atmosphere is the right thickness to keep the planet warm so living things like us can be there. It’s the only planet in our solar system we know of that supports life. It is mostly nitrogen, and it has plenty of oxygen for us to breathe.
@@ -95,7 +97,7 @@ A day on Earth lasts a little under 24 hours.
 One year on Earth lasts 365.25 days. That 0.25 extra means every four years we need to add one day to our calendar. We call it a leap day (in a leap year).
 </div>
 <div class="planet">
-Mars
+<h3>Mars</h3>
 Structure and Surface
 Mars is a terrestrial planet. It is small and rocky.
 Mars has a thin atmosphere.
@@ -109,7 +111,7 @@ Mars has been known since ancient times because it can be seen without advanced 
 Several missions have visited Mars. And Mars is the only planet we have sent rovers to. They drive around Mars, taking pictures and measurements.
 </div>
 <div class="planet">
-Jupiter
+<h3>Jupiter</h3>
 Structure and Surface
 Jupiter is the biggest planet in our solar system.
 Jupiter is a gas giant. It is made mostly of hydrogen and helium.
@@ -125,7 +127,7 @@ Jupiter has been known since ancient times because it can be seen without advanc
 Jupiter has been visited or passed by several spacecraft, orbiters and probes, such as Pioneer 10 and 11, Voyager 1 and 2, Cassini, New Horizons, and Juno.
 </div>
 <div class="planet">
-Saturn
+<h3>Saturn</h3>
 Structure and Surface
 Saturn is a gas giant like Jupiter. It is made mostly of hydrogen and helium.
 Saturn has a thick atmosphere.
@@ -140,7 +142,7 @@ Saturn has been known since ancient times because it can be seen without advance
 Four robotic spacecraft have visited Saturn, including Pioneer 11, Cassini, and Voyager 1 and 2.
 </div>
 <div class="planet">
-Uranus
+<h3>Uranus</h3>
 Structure and Surface
 Uranus is surrounded by a set of 13 rings.
 Uranus is an ice giant (instead of a gas giant). It is mostly made of flowing icy materials above a solid core.
@@ -157,7 +159,7 @@ Uranus was discovered in 1781 by William Herschel in Great Britain.
 Uranus has only been visited by Voyager 2.
 </div>
 <div class="planet">
-Neptune
+<h3>Neptune</h3>
 Structure and Surface
 Neptune is encircled by six rings.
 Neptune, like Uranus, is an ice giant. It’s similar to a gas giant. It is made of a thick soup of water, ammonia, and methane flowing over a solid core about the size of Earth.

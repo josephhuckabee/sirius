@@ -46,6 +46,10 @@ main{
     justify-content:center;
     padding: 40px;
 }
+
+.milky{
+    max-width: 450px;
+}
 .grid1{
     display: grid;
     grid-template-columns: 65% 35%;
@@ -140,6 +144,15 @@ main{
     align-items: center;
 
 }
+
+.sun{
+    max-width:450px;
+    margin: 0 auto; 
+    justify-content:center;
+    padding: 30px;
+    align-items: center;
+}
+
 
 .container{
     // border-style: solid;
