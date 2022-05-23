@@ -1,8 +1,8 @@
 ---
-title: Space
+title: What is Space?
 layout: base.njk
 tags: navItem
-pageClass: home
+pageClass: space
 ---
 ## {{title}}
 <h4>
