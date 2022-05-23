@@ -14,14 +14,19 @@ h1, h2, h3, h4, h5, h6{
     font-family: 'Alegreya', serif;
 }
 
+a{
+    color: #fff;
+}
+
 body{
     font-family: 'Source Sans Pro', sans-serif;
     /*margin-left: 20px;
    margin-right:20px; */
+   height: 500px;
 }
 
 main{
-    padding: 5px;
+    padding: 0px;
 }
 
 .about{
@@ -146,21 +151,6 @@ main{
 
 }
 
-// .accordion{
-//     outline: 1px solid #333;
-//     font-family: sans-serif;
-//   }
-//   .accordion-header{
-//     background-color: #555;
-//     color: #fff;
-//     padding:.5rem;
-//     cursor:pointer;
-//   }
-//   .accordion-item{
-//     padding: .5rem;
-//     line-height: 1.5;
-//     font-family: sans-serif;
-//   }
 
   
 footer{
