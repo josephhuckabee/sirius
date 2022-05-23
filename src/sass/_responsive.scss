@@ -16,10 +16,10 @@ html {
     height: auto;
     max-width: 100%;
   }
-    @media screen and (max-width: 900px)
+    @media screen and (min-width: 900px)
 {
-  *{
-    max-width: 800px;}
+  // *{
+  //   max-width: 800px;}
 
 h1{
     font-size: 30px;
@@ -55,11 +55,11 @@ h1{
   
   .biogrid{
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(800px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(1fr));
       grid-auto-rows: auto;
       grid-gap: 20px;
       height: auto;
-      max-width: 1050px;
+      // max-width: 1050px;
       margin: 0 auto; 
       justify-content:center;
       padding: 30px;
@@ -70,7 +70,7 @@ h1{
       grid-auto-rows: auto;
       grid-gap: 20px;
       height: auto;
-      max-width: 1050px;
+      // max-width: 1050px;
       margin: 0 auto; 
       justify-content:center;
       padding: 40px;
@@ -81,7 +81,7 @@ h1{
       grid-auto-rows: auto;
       grid-gap: 20px;
       height: auto;
-      max-width: 1050px;
+      // max-width: 1050px;
       margin: 0 auto; 
       justify-content:center;
      }
@@ -104,7 +104,7 @@ h1{
       grid-auto-rows: auto;
       grid-gap: 20px;
       height: auto;
-      max-width: 1050px;
+      // max-width: 1050px;
       margin: 0 auto; 
       justify-content:center;
   }
@@ -115,7 +115,7 @@ h1{
       grid-auto-rows: auto;
       grid-gap: 20px;
       height: auto;
-      max-width: 1050px;
+      // max-width: 1050px;
       margin: 0 auto; 
       justify-content:center;
       padding: 30px;
@@ -124,17 +124,17 @@ h1{
   
   
   
-  .paragraph img{
-      max-width: 367.5px;
+  // .paragraph img{
+  //     max-width: 367.5px;
   
-  }
+  // }
   
   .event{
    display: grid;
    grid-template-columns: repeat(auto-fit, minmax(800px, 1fr));
    grid-auto-rows: auto;
    height: auto;
-   max-width: 350px;
+  //  max-width: 350px;
    margin: 0 auto; 
    justify-content:center;
   }
@@ -171,7 +171,7 @@ h1{
       grid-auto-rows: auto;
       grid-gap: 20px;
       height: auto;
-      max-width: 500px;
+      // max-width: 500px;
       margin: 0 auto; 
       justify-content:center;
   }
@@ -187,7 +187,7 @@ h1{
       grid-auto-rows: auto;
       grid-gap: 20px;
       height: auto;
-      max-width: 1050px;
+      // max-width: 1050px;
       margin: 0 auto; 
       justify-content:center;
   
@@ -200,10 +200,10 @@ h1{
   }}
 
 
-  @media screen and (max-width: 600px)
+  @media screen and (min-width: 600px)
   {
-    *{
-      max-width: 500px;}
+    // *{
+    //   max-width: 500px;}
       
   h1{
       font-size: 30px;
@@ -243,7 +243,7 @@ h1{
         grid-auto-rows: auto;
         grid-gap: 20px;
         height: auto;
-        max-width: 1050px;
+        // max-width: 1050px;
         margin: 0 auto; 
         justify-content:center;
         padding: 30px;
@@ -254,7 +254,7 @@ h1{
         grid-auto-rows: auto;
         grid-gap: 20px;
         height: auto;
-        max-width: 1050px;
+        // max-width: 1050px;
         margin: 0 auto; 
         justify-content:center;
         padding: 40px;
@@ -265,7 +265,7 @@ h1{
         grid-auto-rows: auto;
         grid-gap: 20px;
         height: auto;
-        max-width: 1050px;
+        // max-width: 1050px;
         margin: 0 auto; 
         justify-content:center;
        }
@@ -288,7 +288,7 @@ h1{
         grid-auto-rows: auto;
         grid-gap: 20px;
         height: auto;
-        max-width: 1050px;
+        // max-width: 1050px;
         margin: 0 auto; 
         justify-content:center;
     }
@@ -308,17 +308,17 @@ h1{
     
     
     
-    .paragraph img{
-        max-width: 367.5px;
+    // .paragraph img{
+    //     max-width: 367.5px;
     
-    }
+    // }
     
     .event{
      display: grid;
      grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
      grid-auto-rows: auto;
      height: auto;
-     max-width: 350px;
+    //  max-width: 350px;
      margin: 0 auto; 
      justify-content:center;
     }
@@ -355,7 +355,7 @@ h1{
         grid-auto-rows: auto;
         grid-gap: 20px;
         height: auto;
-        max-width: 500px;
+        // max-width: 500px;
         margin: 0 auto; 
         justify-content:center;
     }
@@ -371,14 +371,14 @@ h1{
         grid-auto-rows: auto;
         grid-gap: 20px;
         height: auto;
-        max-width: 1050px;
+        // max-width: 1050px;
         margin: 0 auto; 
         justify-content:center;
     
     }
     
     .scientists{
-        max-width: 300px;
+        // max-width: 300px;
         max-height: 300px;
         
     }}
