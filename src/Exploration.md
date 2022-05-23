@@ -28,3 +28,12 @@ the gravitationally bound system of the Sun and the objects that orbit it. The S
 <figure>
 <img src="/" alt=" ">
 </figure>
+<section class="expogrid">
+<div class="exploration">
+What have we done?
+</div>
+What are we doing?
+<div class="exploration">
+What do we have planned to do?
+</div>
+</section>
