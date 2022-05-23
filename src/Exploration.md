@@ -13,7 +13,7 @@ the gravitationally bound system of the Sun and the objects that orbit it. The S
 
 1
 <figure>
-<img src="/" alt=" ">
+<img src="/images/solar-system.jpg" alt="solars">
 </figure>
 
 2
