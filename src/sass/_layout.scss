@@ -6,11 +6,12 @@
     color: #f5f2f0;
 }
 header{
+
     justify-content: center;
-    margin-left: auto;
-   margin-right:auto;
+    margin: 0;
    background-color: #000;
    width: 100%;
+   height: 100%;
 
 }
 
@@ -25,7 +26,8 @@ body{
 }
 
 main{
-    padding: 5px;
+    padding: 20px;
+    margin-top: 20px;
 }
 
 .about{
@@ -33,6 +35,17 @@ main{
  align-items: center;
 }
 
+.biogrid{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-auto-rows: auto;
+    grid-gap: 20px;
+    height: auto;
+    max-width: 1050px;
+    margin: 0 auto; 
+    justify-content:center;
+    padding: 40px;
+}
 .grid1{
     display: grid;
     grid-template-columns: 65% 35%;
@@ -42,6 +55,7 @@ main{
     max-width: 1050px;
     margin: 0 auto; 
     justify-content:center;
+    padding: 40px;
 }
 .grid2{
     display: grid;
@@ -56,13 +70,15 @@ main{
 
 .grid3{
     display: grid;
-    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-columns: 35% 65%;
     grid-auto-rows: auto;
     grid-gap: 20px;
     height: auto;
     max-width: 1050px;
     margin: 0 auto; 
     justify-content:center;
+    width: 100%;
+    padding: 20px;
 }
 .grid4{
     display: grid;
@@ -117,25 +133,34 @@ main{
 }
 
 .object{
-    display: grid;
-    grid-template-columns: 50% 50%;
-    grid-auto-rows: auto;
-    height: auto;
-    max-width: 350px;
+ max-width: 350px;
     margin: 0 auto; 
     justify-content:center;
     padding: 30px;
+    align-items: center;
+
 }
 
+.container{
+    // border-style: solid;
+    // border-radius: 10px 10px 10px 10px;
+    // border-color: #fff;
+     padding: 20ox;
+}
 .astrogrid{
     display: grid;
-    grid-template-columns: 33.333% 33.333% 33.333%;
+    grid-template-columns: 50% 50%;
     grid-auto-rows: auto;
     grid-gap: 20px;
     height: auto;
     max-width: 1050px;
     margin: 0 auto; 
     justify-content:center;
+}
+.astros{
+    padding:30px;
+    // margin: auto;
+   
 }
 
 .expogrid{
@@ -148,6 +173,12 @@ main{
     margin: 0 auto; 
     justify-content:center;
 
+}
+
+.scientists{
+    max-width: 300px;
+    max-height: 300px;
+    
 }
 
 // .accordion{
@@ -169,4 +200,7 @@ main{
   
 footer{
     text-align: center;
+    position: fixed;
+    background-color: #000;
+    color: gold;
 }

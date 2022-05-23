@@ -4,12 +4,14 @@ layout: base.njk
 tags: navItem
 pageClass: Milky Way
 ---
-## {{title}}
-<section class="bio">
-<h2>Where do we live?</h2>
+<main><section class="bio">
+<h1>Where do we live?</h1>
+<div class="biogrid">
+<div>
 <p>Earth is located in one of the spiral arms of the Milky Way (called the Orion Arm) which lies about two-thirds of the way out from the center of the Galaxy. Here we are part of the Solar System - a group of eight planets, as well as numerous comets and asteroids and dwarf planets which orbit the Sun.the gravitationally bound system of the Sun and the objects that orbit it. The Solar System formed 4.6 billion years ago from the gravitational collapse of a giant interstellar molecular cloud. The vast majority of the system's mass is in the Sun, with most of the remaining mass contained in the planet Jupiter. The four inner system planets—Mercury, Venus, Earth and Mars—are terrestrial planets, being composed primarily of rock and metal. The four giant planets of the outer system are substantially larger and more massive than the terrestrials. The two largest, Jupiter and Saturn, are gas giants, being composed mainly of hydrogen and helium; the next two, Uranus and Neptune, are ice giants, being composed mostly of volatile substances with relatively high melting points compared with hydrogen and helium, such as water, ammonia and methane. All eight planets have nearly circular orbits that lie close to the plane of the Earth's orbit, called the ecliptic.</p>
+</div><div><img src="/images/milkyway.png"></div>
 </section>
-<h3>stars</h3>
+<div class="sun"><h3>stars</h3><br><img src="/images/sun.jpeg"></div>
 <section class="grid4">
 <div class="location">
 
@@ -17,35 +19,6 @@ pageClass: Milky Way
 </section>
 <h3>moons</h3>
 <p>There are 181 confirmed moons in the Milky Way but astronomers believe there is well over 200. Here is a list of the most famous moons in our solar system.</p>
-
-
-
-
-<div class="accordions">
-  
-
-<div class="accordion">
-  <div class="accordion-header"><h3>Thing 1</h3></div>
-  <div class="accordion-item">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur repellendus adipisci qui mollitia illum iusto veniam voluptatibus error ipsa ipsam esse, asperiores quo maiores totam nulla earum! Molestias, ratione velit?</div>
-</div>
-  <div class="accordion">
-    <div class="accordion-header"><h3>Thing 2</h3></div>
-    <div class="accordion-item">
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab temporibus libero, laborum modi dolorem aut eaque, perspiciatis explicabo deserunt corporis alias recusandae officia blanditiis, voluptatem amet suscipit quibusdam maxime ut.</p>
-      <figure>
-        <img src="https://picsum.photos/300/300" alt="random placeholder image">
-      </figure>
-      <ul>
-        <li>List Item</li>
-        <li>List Item</li>
-      </ul>
-    </div>
-  </div>
-  <div class="accordion">
-    <div class="accordion-header"><h3>Thing 3</h3></div>
-    <div class="accordion-item">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab temporibus libero, laborum modi dolorem aut eaque, perspiciatis explicabo deserunt corporis alias recusandae officia blanditiis, voluptatem amet suscipit quibusdam maxime ut.</div>
-  </div>
-</div>
 <section class="grid4">
 <div class="location">
 <h5>Mercury</h5> Zero Moons
@@ -76,7 +49,8 @@ pageClass: Milky Way
 </div>
 </section>
 
-<h3>Planets</h3>
+<img src="/images/solarsystem.jpg">
+<h1>Our Cellestial Neighbors</h1>
 <section class="grid4">
 <div class="planet">
 <h5>Mercury</h5>
@@ -206,4 +180,4 @@ There are Dwarf Planets in our system. <br> Ceres, Pluto, Haumea, Makemake and E
 </div>
 </section>
 
-<sec>
+</main>

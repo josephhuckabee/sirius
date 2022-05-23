@@ -1,48 +1,76 @@
 ---
-title: Cosmology
+title: Cellestial Bodies
 layout: base.njk
 tags: navItem
-pageClass: Cosmology
+pageClass: Space Objects
 ---
-## {{title}}
+<main>
 <section class="bio">
-<h2>what makes up space?</h2>
-Outer space refers to the area of ​​space outside the Earth's dense atmosphere, and there are no clear boundaries. Generally defined as space approximately 1000 kilometers away from the Earth's surface. Human curiosity and exploration of outer space have never been stopped. There is no clear boundary between space and Earth's atmosphere, as the atmosphere gradually thins with altitude. Assuming that the atmospheric temperature is fixed, the atmospheric pressure will decrease exponentially from 1000 mbar at sea level to zero as the altitude increases. The International Aviation Federation defines the Karman line at an altitude of 100 kilometers, which is the current boundary between the atmosphere and space. definition. The United States identifies people who reach an altitude of 80 kilometers as astronauts, and 120 kilometers is the boundary where air resistance begins to take effect during the spacecraft's return to Earth.
+<h2>What is a cellestial body?</h2>
+Any collection of matter in space is considered a cellestial body. Here are the main cellstial bodies that scientist know about. 
 </section>
 <section class="grid3">
 <div class="object">
-<img src="/images/universe.jpeg"><br>
-universe
-</div>
-<div class="object">
-<img src="/images/star.jpeg"><br>
-star
-</div>
-<div class="object">
-<img src="/images/jupiter.jpeg"><br>
-planet
-</div>
-<div class="object">
-<img src="/images/moon.jpeg"><br>
-moon
+<img src="/images/universe.jpeg">
+</div><div>
+<h3>Universe</h3>
+<p>The universe is all of space and time and their contents, including planets, stars, galaxies, and all other forms of matter and energy. The Big Bang theory is the prevailing cosmological description of the development of the universe.</p>
 </div>
 </section>
-
 <section class="grid3">
 <div class="object">
-<img src="/"><br>
-
+<img src="/images/sun.jpeg">
+</div><div>
+<h3>Star</h3>
+<br><p>A star is an astronomical object comprising a luminous spheroid of plasma held together by its gravity. The nearest star to Earth is the Sun. Many other stars are visible to the naked eye at night, but their immense distances from Earth make them appear as fixed points of light.</p>
 </div>
-<div class="object">
-<img src="/images/galaxy.jpeg"><br>
-galaxy
-</div>
-<div class="object">
-<img src="/images/blackhole.jpeg"><br>
-black holes
-</div>
-<div class="object">
-<img src="/images/meteor.png"><br>
-meteor
 </div>
 </section>
+<section class="grid3">
+<div class="object">
+<img src="/images/jupiter.jpeg">
+</div>
+<div>
+<h3>Planet</h3>
+<p>A planet is a large astronomical body that is neither a star nor a stellar remnant. At least eight planets exist in the Solar System: the terrestrial planets Mercury, Venus, Earth and Mars, and the giant planets Jupiter, Saturn, Uranus and Neptune.
+</p></div>
+</div>
+</section>
+<section class="grid3">
+<div class="object">
+<img src="/images/moon.jpeg">
+</div>
+<div><h3>Moon</h3>
+<br><p>The Moon is Earth's only natural satellite. At about one-quarter the diameter of Earth, it is the fifth largest satellite in the Solar System, the largest satellite in the Solar System relative to its major planet, and larger than any known dwarf planet.</div>
+</div>
+</section>
+<section class="grid3">
+<div class="object">
+<img src="/images/galaxy.jpeg">
+</div>
+<div><h3>Galaxy</h3>
+<br><p>
+A galaxy is a gravitationally bound system of stars, stellar remnants, interstellar gas, dust, and dark matter. The word is derived from the Greek galaxias, literally 'milky', a reference to the Milky Way galaxy that contains the Solar System.</p>
+</div>
+</div>
+</section>
+<section class="grid3">
+<div class="object">
+<img src="/images/blackhole.jpeg">
+</div>
+<div>
+<h3>Black Holes</h3>
+<p>A black hole is a region of spacetime where gravity is so strong that nothing – no particles or even electromagnetic radiation such as light – can escape from it. The theory of general relativity predicts that a sufficiently compact mass can deform spacetime to form a black hole.</p>
+</div>
+</div>
+</section>
+<section class="grid3">
+<div class="object">
+<img src="/images/meteor.png">
+</div>
+<div><h3>Meteor</h3>
+<br><p>A meteoroid is a small rocky or metallic body in outer space. Meteoroids are significantly smaller than asteroids, and range in size from small grains to one-meter-wide objects. Objects smaller than this are classified as micrometeoroids or space dust.</p>
+</div>
+</div>
+</section>
+</main>
