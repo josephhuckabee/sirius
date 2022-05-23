@@ -13,6 +13,8 @@ $nav-background: #fff;
     padding: 1.5rem 2rem;
     background-color: $nav-background;
     transition: top 500ms ease-in-out;
+    background-color: #000000;
+    
 
     .logo {
         /* you may change this styling to fit your site*/
@@ -66,5 +68,5 @@ $nav-background: #fff;
     /*height: 70px;*/
     /*border-radius: 50%;*/
     overflow: hidden;
-    margin-top: -30px;
+    margin-top: -20px;
 }
