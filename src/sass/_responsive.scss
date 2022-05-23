@@ -49,3 +49,56 @@ html {
       width: 100%;
       height: 100%;
   }
+
+  .home-image{
+    position: absolute;
+  }
+
+  .parallax{
+    position:relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+.parallax:before{
+  content:'';
+  position: absolute;
+  bottom: 0;
+  width:100%;
+  height: 100px;
+  background: linear-gradient(to top, #0a2a43, transparent);
+  z-index: 10000;
+}
+.parallax:after{
+  content:'';
+  position: absolute;
+  top:0;
+  left:0;
+  width: 100%;
+  height: 100%;
+  background: #0a2a43;
+  z-index: 10000;
+}
+
+
+  .parallax img{
+    position: absolute;
+    top:0;
+    left:0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    pointer-events: none;
+  }
+
+
+  #text{
+    position: relative;
+    color: #fff;
+    font-size: 10em;
+    z-index: 1;
+  }

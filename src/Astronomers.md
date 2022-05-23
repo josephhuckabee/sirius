@@ -36,7 +36,7 @@ the expanse that exists beyond Earth and its atmosphere and between celestial bo
                 <p>NASA conducts the first hot fire in a new RS-25 single-engine test series on the A-1 Test Stand at Stennis Space Center. The test of RS-25 developmental engine No. 0528 marks the beginning of a seven-test series designed to provide valuable data to Aerojet Rocketdyne, lead contractor for SLS engines, as the company begins production of new RS-25 engines. NASA's Space Launch System rocket is powered, in part, by four RS-25 engines generating 1.6 million pounds of combined thrust at launch.</p>
      </div>
 
-<section class="Astronomer container">
+<section class="astronomer-container">
         <div class="title">
             <h2>Famous Astronomers</h2>
         </div>
@@ -78,3 +78,4 @@ the expanse that exists beyond Earth and its atmosphere and between celestial bo
                     <a href="#" class="highlight">Albert Einstein</a>
                 </div>
             </div>
+</section>

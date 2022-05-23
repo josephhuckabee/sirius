@@ -1,10 +1,17 @@
 ---
-title: Home
+title: 
 layout: base.njk
 tags: navItem
 pageClass: home
 ---
-## {{title}}
+<section class="parallax">
+<img src="/images/cosmos-gb472637dd_1920.jpg" alt="bkgd">
+<img src="/images/nasa-Yj1M5riCKk4-unsplash.jpg" alt="solar" >
+<img src="/images/nasa-earth.png" alt="earth">
+<h2 id="text"> SIRIUS</h2>
+</section>
+<script type="text/javascript">
+    let bg=document.getElementById()
 
 Space is an extremely high sky. The International Federation of Aeronautics and Astronautics in Geneva, Switzerland defines the boundary between the atmosphere and space: the dividing line at an altitude of 100 kilometers (about 62 miles) above the earth's sea level, called the Carmen line. The Karmen line is named after American scientist Theodore von Karman. Geophysicists divide atmospheric space (or airspace) into 5 layers
 

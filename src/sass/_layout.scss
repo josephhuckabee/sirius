@@ -9,10 +9,21 @@ body{
 
 main{
     //add padding around main content on each page
-    padding: 5px;
-    padding: 25px;
+   
+    /*padding: 25px;*/
 }
 
 .site-footer{
     text-align: center;
 }
+.grid-box img{
+    padding: 50px;
+width: 600px;
+}
+
+.astronomer-container{
+    display: grid;
+    grid-template-columns: 1fr;
+    background-color: rgb(58, 58, 61);
+    }
+   
