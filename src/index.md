@@ -3,13 +3,11 @@ title:
 layout: base.njk
 tags: navItem
 pageClass: home
+
+
 ---
-<section class="parallax">
-<img src="/images/cosmos-gb472637dd_1920.jpg" id="backgr">
-<img src="/images/nasa-Yj1M5riCKk4-unsplash.jpg" id="ast" >
-<img src="/images/nasa-earth.png" id="earth">
-<h2 id="text"> SIRIUS</h2>
-</section>
+
+
 
 
 ## {{title}}
@@ -22,7 +20,7 @@ Space is an extremely high sky. The International Federation of Aeronautics and 
 <h2>intergalactic space</h2>
 the space with matter and the space between galaxies. Intergalactic space is very close to a complete vacuum , but there is usually still free dust and debris. Between clusters of galaxies, the space called voids is an almost complete vacuum . Some theories hold that the density of one hydrogen atom per cubic meter is equivalent to the average density of the universe [9] [10] . However, the density of the universe is clearly not uniform; its density ranges from very high in galaxies (including in galaxies with high-density structures such as planets, stars, and black holes ) to very low in vast voids , a density well below the cosmic average.
 <figure>
-<img src="/images/hubble.jpg" alt="hubble">
+
 </figure>
 
 ## interplanetary space
@@ -48,3 +46,5 @@ the region of outer space adjacent to the Earth. The geospace region includes re
 <img src="/logo.png"> 
 </div>
 </section>
+
+</body>
