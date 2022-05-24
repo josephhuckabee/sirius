@@ -173,15 +173,13 @@ h1{
     z-index: 2;
   }
 
-  main {
+  .grid1 {
     height: 100%;
     /* max-height: 600px; */
     width: 100%;
     background-color: hsla(200,40%,30%,.4);
     background-image:		
-      url('/images/AdobeStock_37.png'), 
-      
-      url('/images/Astronaft2.png');
+      url('/images/AdobeStock_37.png');
       
     background-repeat: repeat-x;
     background-position: 

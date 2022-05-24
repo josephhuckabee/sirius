@@ -16,7 +16,7 @@ pageClass: Astronomers
 <img src="/images/Galileo.jpg" class="scientists">
 <h4>Galileo Galilei</h4><hr>Born in Pisa in Italy in 1564, Galileo was a great scientist and astronomer who developed modern astronomy. He has been credited as the father on modern science. Galileo has also been credited with the Law of Constant Acceleration; however what Galileo is most famous for is the invention of the first space telescope  by taking the design of the existing land telescope and making it more powerful. Galileo started to study and discover the stars, and while studying Jupiter he discovered that Jupiter had 4 main moons that hadn’t been discovered before. These moons are now called Galilean Moons. Galileo also made great discoveries of Venus and Earth’s moon, but a lot of people disagreed with Galileo, and like Copernicus people didn’t believe his ideas and theories. His work however has stood the test of time, with many of his theories proven fact. He really is the father of modern science.
 <div class="hover">
-   <a href ="https://en.wikipedia.org/wiki/Galileo_Galilei"> Galileo Galilei </a> 
+   <a href ="https://en.wikipedia.org/wiki/Galileo_Galilei"> text from Wikipedia </a> 
 </div>
 
 </div>
@@ -80,15 +80,17 @@ pageClass: Astronomers
       </div>
       <p>Gottfried Wilhelm (von) Leibniz (1 July 1646 – 14 November 1716) was a German polymath active as a mathematician, philosopher, scientist, and diplomat. He is one of the most prominent figures in both the history of philosophy and the history of mathematics. He wrote works on philosophy, theology, ethics, politics, law, history, and philology. Leibniz also made major contributions to physics and technology, and anticipated notions that surfaced much later in probability theory, biology, medicine, geology, psychology, linguistics, and computer science. In addition, he contributed to the field of library science: while serving as overseer of the Wolfenbüttel library in Germany, he devised a cataloging system that would have served as a guide for many of Europe's largest libraries. Leibniz's contributions to this vast array of subjects were scattered in various learned journals, in tens of thousands of letters, and in unpublished manuscripts. He wrote in several languages, primarily in Latin, French and German, but also in English, Italian and Dutch.</p>
    </div>
+</section>
+<section class="astrogrid">
    <div class="astros">
       <img src="/images/ReneDescartes.png" alt="rene">
-      <div class="hover">
-         <a href ="https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes"> René Descartes </a> 
-      </div>
+      <h4>René Descartes</h4>
+         <hr>
       <p>René Descartes; 31 March 1596 – 11 February 1650. was a French philosopher, mathematician, scientist and lay Catholic who invented analytic geometry, linking the previously separate fields of geometry and algebra. He spent a large portion of his working life in the Dutch Republic, initially serving the Dutch States Army of Maurice of Nassau, Prince of Orange and the Stadtholder of the United Provinces. One of the most notable intellectual figures of the Dutch Golden Age, Descartes is also widely regarded as one of the founders of modern philosophy.</P>
-      
+         <div class="hover">
+            <a href ="https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes"> text from Wikipedia </a> 
+         </div>
    </div>
 </section>
-
 
 </main>
