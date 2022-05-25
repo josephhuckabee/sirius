@@ -41,8 +41,7 @@ pageClass: Astronomers
 <div class="astros">
 <img src="/images/Einstein.jpg" class="scientists">
 <h4>Albert Einstein</h4><hr>
-                <p>Albert Einstein ( 14 March 1879 – 18 April 1955) was a German-born theoretical physicist,widely acknowledged to be one of the greatest and most influential physicists of all time. Einstein is best known for developing the theory of relativity, but he also made important contributions to the development of the theory of quantum mechanics.  His mass–energy equivalence formula E = mc2, which arises from relativity theory, has been dubbed "the world's most famous equation".His work is also known for its influence on the philosophy of science. He received the 1921 Nobel Prize in Physics "for his services to theoretical physics. His intellectual achievements and originality resulted in "Einstein" becoming synonymous with "genius".
-                </p>
+                Albert Einstein ( 14 March 1879 – 18 April 1955) was a German-born theoretical physicist,widely acknowledged to be one of the greatest and most influential physicists of all time. Einstein is best known for developing the theory of relativity, but he also made important contributions to the development of the theory of quantum mechanics.  His mass–energy equivalence formula E = mc2, which arises from relativity theory, has been dubbed "the world's most famous equation".His work is also known for its influence on the philosophy of science. He received the 1921 Nobel Prize in Physics "for his services to theoretical physics. His intellectual achievements and originality resulted in "Einstein" becoming synonymous with "genius".
                 <div class="hover">
                   <a href ="https://en.wikipedia.org/wiki/Albert_Einstein"> text from Wikipedia </a> 
  </div>
@@ -78,19 +77,18 @@ pageClass: Astronomers
 
    <div class="astros">
          <img src="/images/EmanuilKant.jpg" alt="kant">
-         <h4>Immanuel Kant</h4><hr>
-         <p>Immanuel Kant ( 22 April 1724 – 12 February 1804) was a German philosopher and one of the central Enlightenment thinkers.[24][25] Born in Königsberg, Kant's comprehensive and systematic works in epistemology, metaphysics, ethics, and aesthetics have made him an influential figure in modern Western philosophy.
-         </p>
-         <div class="hover">
+         <h4>Immanuel Kant</h4><hr> Immanuel Kant ( 22 April 1724 – 12 February 1804) was a German philosopher and one of the central Enlightenment thinkers.[24][25] Born in Königsberg, Kant's comprehensive and systematic works in epistemology, metaphysics, ethics, and aesthetics have made him an influential figure in modern Western philosophy.
+    <div class="hover">
             <a href ="https://en.wikipedia.org/wiki/Immanuel_Kant"> text from Wikipedia </a> 
          </div>
-     </div>
-     </section>
+</div>   
+</div>  
+       </section>
      <section class="astrogrid">
    <div class="astros">
       <img src="/images/Gottfried_Wilhelm_Leibniz.jpg" alt="leibniz">
       <h4>Immanuel Kant</h4><hr>
-      <p>Gottfried Wilhelm (von) Leibniz (1 July 1646 – 14 November 1716) was a German polymath active as a mathematician, philosopher, scientist, and diplomat. He is one of the most prominent figures in both the history of philosophy and the history of mathematics. He wrote works on philosophy, theology, ethics, politics, law, history, and philology. .</p>
+      Gottfried Wilhelm (von) Leibniz (1 July 1646 – 14 November 1716) was a German polymath active as a mathematician, philosopher, scientist, and diplomat. He is one of the most prominent figures in both the history of philosophy and the history of mathematics. He wrote works on philosophy, theology, ethics, politics, law, history, and philology.
   
  <div class="hover">
             <a href ="https://en.wikipedia.org/wiki/Immanuel_Kant"> text from Wikipedia </a> 
@@ -100,7 +98,7 @@ pageClass: Astronomers
       <img src="/images/ReneDescartes.png" alt="rene">
       <h4>René Descartes</h4>
          <hr>
-      <p>René Descartes; 31 March 1596 – 11 February 1650. was a French philosopher, mathematician, scientist and lay Catholic who invented analytic geometry, linking the previously separate fields of geometry and algebra. He spent a large portion of his working life in the Dutch Republic, initially serving the Dutch States Army of Maurice of Nassau, Prince of Orange and the Stadtholder of the United Provinces. One of the most notable intellectual figures of the Dutch Golden Age, Descartes is also widely regarded as one of the founders of modern philosophy.</P>
+      René Descartes; 31 March 1596 – 11 February 1650. was a French philosopher, mathematician, scientist and lay Catholic who invented analytic geometry, linking the previously separate fields of geometry and algebra. He spent a large portion of his working life in the Dutch Republic, initially serving the Dutch States Army of Maurice of Nassau, Prince of Orange and the Stadtholder of the United Provinces. One of the most notable intellectual figures of the Dutch Golden Age, Descartes is also widely regarded as one of the founders of modern philosophy.
          <div class="hover">
             <a href ="https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes"> text from Wikipedia </a> 
          </div>
