@@ -53,7 +53,7 @@ h1{
    align-items: center;
   }
   
-  .biogrid{
+  /*.grid1{
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(1fr));
       grid-auto-rows: auto;
@@ -63,8 +63,8 @@ h1{
       margin: 0 auto; 
       justify-content:center;
       padding: 30px;
-  }
-  .grid1{
+  } */
+  .paralax{
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(800px, 1fr));
       grid-auto-rows: auto;
@@ -121,46 +121,7 @@ h1{
     position: absolute;
   }
 
-  .parallax{
-    position:relative;
-    width: 100%;
-    height: 100vh;
-    overflow: hidden;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-
-.parallax:before{
-  content:'';
-  position: absolute;
-  bottom: 0;
-  width:100%;
-  height: 100px;
-  background: linear-gradient(to top, #0a2a43, transparent);
-  z-index: 10000;
-}
-.parallax:after{
-  content:'';
-  position: absolute;
-  top:0;
-  left:0;
-  width: 100%;
-  height: 100%;
-  background: #0a2a43;
-  z-index: 10000;
-}
-
-
-  .parallax img{
-    position: absolute;
-    top:0;
-    left:0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    pointer-events: none;
-  }
+  
 
 
   #text{
@@ -173,9 +134,11 @@ h1{
     z-index: 2;
   }
 
-  .grid1 {
+
+  
+
+  .parralax{
     height: 100%;
-    /* max-height: 600px; */
     width: 100%;
     background-color: hsla(200,40%,30%,.4);
     background-image:		
@@ -358,7 +321,7 @@ h1{
         margin: 0 auto; 
         justify-content:center;
         padding: 40px;
-    }
+    }   
     .grid2{
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
@@ -482,3 +445,40 @@ h1{
         max-height: 300px;
         
     }}
+
+    .home{
+      height: 100%;
+      /* max-height: 600px; */
+      width: 100%;
+      background-color: hsla(200,40%,30%,.4);
+      background-image:		
+        url('/images/AdobeStock_37.png'), 
+  
+        url('/images/Astronaft2.png');
+  
+      background-repeat: repeat-x;
+      background-position: 
+        0 20%,
+        0 100%,
+        0 50%,
+        0 100%,
+        0 0;
+      background-size: 
+        1200px,
+        800px,
+        500px 200px,
+        1000px,
+        400px 260px;
+      animation: 200s para infinite linear;
+      }
+  
+    @keyframes para {
+      100% {
+        background-position: 
+          -5000px 20%,
+          -800px 95%,
+          500px 50%,
+          1000px 100%,
+          400px 0;
+        }
+      }
