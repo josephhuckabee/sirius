@@ -10,8 +10,8 @@ $nav-background: #fff;
     flex-wrap: wrap;
     row-gap: 1rem; /* adds space between logo and nav items if the items wrap under the logo */
     justify-content: space-between;
-   padding: 25px;
-    max-height: 90px;
+   padding: 10px;
+    /*max-height: 90px;*.
     background-color: $nav-background;
     /*transition: top 500ms ease-in-out;*/
     background-color: #000000;
@@ -21,13 +21,7 @@ $nav-background: #fff;
 
     
 
-    .logo {
-        /* you may change this styling to fit your site*/
-        font-weight: bold;
-        text-transform: uppercase;
-        letter-spacing: 0.2em;
-      }
-
+    
       .links {
         display: flex;
         margin: 0 -1em;
@@ -46,32 +40,22 @@ $nav-background: #fff;
                 border-bottom: 1px solid $hover-color;
             }
               
-            &:visited{
-                color: $visited-color;
-                border-color: $visited-color;
+           
             }
         }
-    }
+    
 
   }
   
   
 /*.navbar {*/
 nav{
-  background-color: #000;
+  
   font-family: 'Source Sans Pro', sans-serif;
 
 }
 
-nav a {
-  float: center;
-  font-size: 24px;
- color: #FCE95F;
-  text-align: center;
-  padding: 10px;
-  text-decoration: none;
-  height: auto;
- }
+
  
   @media screen and (max-width: 600px){
     .site-nav{
@@ -86,9 +70,10 @@ nav a {
   }
   
 .logo img{
-    width: 185px;
+    width: 200px;
     /*height: 70px;*/
     /*border-radius: 50%;*/
     overflow: hidden;
+    
     
 }
