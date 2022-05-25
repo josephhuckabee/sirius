@@ -483,3 +483,98 @@ h1{
           400px 0;
         }
       }
+     /*Exploration paralac*/
+     .container {
+       /* hide fixed overflow contents */
+       clip: rect(0, auto, auto, 0);
+     
+       /* does not work if overflow = visible */
+       overflow: hidden;
+     
+       /* only works with absolute positioning */
+       position: absolute;
+     
+       /* Make sure containers are full-width and height */
+       height: 200vh;
+      
+       width: 100%;
+      
+       
+       
+       /* safari hack */
+       -webkit-mask-image: -webkit-linear-gradient(top, #ffffff 0%,#ffffff 100%);
+     }
+     
+     .container_solid {
+       background:#000;
+       
+       /* position this container at the top of its parent element */
+       top: 100px;
+     }
+     
+     .title_wrapper {
+       position: fixed;
+       display: block;  
+       margin: auto;
+       width: 100%;
+       /* center the text wrapper vertically */
+       top: 50%;
+       -webkit-transform: translateY(-50%);
+           -ms-transform: translateY(-50%);
+               transform: translateY(-50%);
+               background-color: transparent;
+     }
+     
+     .title_wrapper h1 {
+       text-align: center;
+       font-size: 64px;
+       text-transform: uppercase;
+       text-align: center;
+       font-family: 'Fraunces', serif;
+       font-weight: 900;
+     }
+     
+     .container_solid .title_wrapper h1 {
+       /* the text background */
+       background: url(https://cdn.pixabay.com/photo/2016/11/29/05/45/astronomy-1867616_1280.jpg);
+       background-size: 80vw auto;
+       background-position: center;
+       
+       /* clip the text is possible */
+       text-fill-color: transparent;
+       -webkit-text-fill-color: transparent;
+       background-clip: text;
+       -webkit-background-clip: text;
+       
+       /* fallback text color */
+       color: black;
+     }
+    
+     .container_image {
+       
+       background-image: url(https://cdn.pixabay.com/photo/2014/09/08/09/24/solar-system-439046_1280.jpg);
+      /* background-size:100vw auto;*/
+       background-position: center;
+       background-attachment: fixed;
+       top: 80vh;
+       height: 200vh;
+     }
+     
+     .container_image .title_wrapper h1 {
+       color: white;
+      
+     }
+     
+     .exploration{
+       min-height: 100vh;
+       padding: 2em;
+       margin: auto;
+       max-width: 800px;
+     }
+     
+     .exploration h1 {
+      font-family: 'Merriweather Sans', sans-serif;
+     }
+     
+
+  

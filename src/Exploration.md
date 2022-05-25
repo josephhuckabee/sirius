@@ -3,20 +3,36 @@ title: Exploration
 layout: base.njk
 tags: navItem
 pageClass: Exploration
+
 ---
+  <!-- First container -->
+  <div class="container container_solid">
+    <div class="title_wrapper">
+      <h1>Our Solar System</h1>
+    </div>
+  </div>
 
-### Our Solar System
-the gravitationally bound system of the Sun and the objects that orbit it. The Solar System formed 4.6 billion years ago from the gravitational collapse of a giant interstellar molecular cloud. The vast majority of the system's mass is in the Sun, with most of the remaining mass contained in the planet Jupiter. The four inner system planets—Mercury, Venus, Earth and Mars—are terrestrial planets, being composed primarily of rock and metal. The four giant planets of the outer system are substantially larger and more massive than the terrestrials. The two largest, Jupiter and Saturn, are gas giants, being composed mainly of hydrogen and helium; the next two, Uranus and Neptune, are ice giants, being composed mostly of volatile substances with relatively high melting points compared with hydrogen and helium, such as water, ammonia and methane. All eight planets have nearly circular orbits that lie close to the plane of the Earth's orbit, called the ecliptic.
+  <!-- Second container -->
+  <div class="container container_image" aria-hidden="true">
+    <div class="title_wrapper">
+      <h1>Our Solar System</h1>
+    </div>
+  </div>
 
-## {{title}}
 
-The expanse that exists beyond Earth and its atmosphere and between celestial bodies. Outer space is not completely empty—it is a hard vacuum containing a low density of particles, predominantly a plasma of hydrogen and helium, as well as electromagnetic radiation, magnetic fields, neutrinos, dust, and cosmic rays. The baseline temperature of outer space, as set by the background radiation from the Big Bang, is 2.7 kelvins (−270.45 °C; −454.81 °F). The plasma between galaxies is thought to account for about half of the baryonic (ordinary) matter in the universe, having a number density of less than one hydrogen atom per cubic metre and a temperature of millions of kelvins. Local concentrations of matter have condensed into stars and galaxies. Studies indicate that 90% of the mass in most galaxies is in an unknown form, called dark matter, which interacts with other matter through gravitational but not electromagnetic forces. Observations suggest that the majority of the mass-energy in the observable universe is dark energy, a type of vacuum energy that is poorly understood. Intergalactic space takes up most of the volume of the universe, but even galaxies and star systems consist almost entirely of empty space.
+<section class="exploration">
+  <h1><b>Lorem ipsum dolor sit amet.</b></h1>
+  <p>
+    The gravitationally bound system of the Sun and the objects that orbit it. The Solar System formed 4.6 billion years ago from the gravitational collapse of a giant interstellar molecular cloud. The vast majority of the system's mass is in the Sun, with most of the remaining mass contained in the planet Jupiter. The four inner system planets—Mercury, Venus, Earth and Mars—are terrestrial planets, being composed primarily of rock and metal. The four giant planets of the outer system are substantially larger and more massive than the terrestrials. The two largest, Jupiter and Saturn, are gas giants, being composed mainly of hydrogen and helium; the next two, Uranus and Neptune, are ice giants, being composed mostly of volatile substances with relatively high melting points compared with hydrogen and helium, such as water, ammonia and methane. All eight planets have nearly circular orbits that lie close to the plane of the Earth's orbit, called the ecliptic
+  </p>
+</section>
+
+
+
+
 
 <section class="History container">
-        <div class="rect-bg"></div>
-        <div class="title">
-            <h3>History</h3>
-        </div>
+       
 
 <div class="grid-wrapper">
             <div class="grid-box">
@@ -49,34 +65,4 @@ The expanse that exists beyond Earth and its atmosphere and between celestial bo
                 </p>
      </div>
 </section>
-### The latest from around your galactic neighborhood
 
-1
-<figure>
-<img src="/images/solar-system.jpg" alt="solars">
-</figure>
-
-2
-<figure>
-<img src="/" alt=" ">
-</figure>
-
-3.<figure>
-<img src="/" alt=" ">
-</figure>
-4.
-<figure>
-<img src="/" alt=" ">
-</figure>
-<section class="expogrid">
-<div class="exploration">
-What have we done?
-</div>
-What are we doing?
-</h3>
-<p></p>
-<h3>
-What do we have planned to do?
-</h3><p>In February 2017, Elon Musk announced that substantial deposits from two individuals had been received by SpaceX for a Moon loop flight using a free return trajectory and that this could happen as soon as late 2018.[53] Musk said that the cost of the mission would be "comparable" to that of sending an astronaut to the International Space Station, about US$70 million in 2017.[54] In February 2018, Musk announced that the Falcon Heavy rocket would not be used for crewed missions.[55][56] The proposal changed in 2018 to use the Starship launch system instead.[10][55][56] In September 2018, Musk revealed the passenger for the trip, Yusaku Maezawa during a livestream. Yusaku Maezawa described the plan for his trip in further detail, dubbed the #dearMoon project, intending to take 6–8 artists with him on the journey to inspire the artists to create new art.[57]
-Space Adventures Ltd. have announced that they are working on DSE-Alpha, a circumlunar mission to the Moon, with the price per passenger being $100,000,000.[58]</p>
-</section>
