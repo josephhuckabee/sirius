@@ -29,12 +29,7 @@ body{
    margin-right:20px; */
    height: 500px;
 }
-/*
-main{
-    padding: 20px;
-    margin-top: 20px;
-}
-*/
+
 .about{
  width: 100%;
  align-items: center;
@@ -194,10 +189,8 @@ main{
 
 
   
-footer{
-    text-align: center;
+
     
-}
 .grid-box img{
     padding: 40px;
 width: 700px;
@@ -261,3 +254,19 @@ width: 700px;
 //       max-width: 1000px;
 //       margin: 0 auto;
 //   }
+footer{
+    height: 50px;
+    align-items: center;
+    align-content: center;
+    padding-top: 10px ;
+    text-align: center;
+}
+.bio{
+    text-align: center;
+}
+.astrogrid img{
+        
+        width:  250px;
+        height: 250px;
+        object-fit: cover;    
+}
