@@ -468,7 +468,7 @@ h1{
         1200px,
         800px,
         500px 200px,
-        1000px,
+        500px,
         400px 260px;
       animation: 200s para infinite linear;
       }
@@ -479,10 +479,13 @@ h1{
           -5000px 20%,
           -800px 95%,
           500px 50%,
-          1000px 100%,
+          500px 100%,
           400px 0;
         }
       }
+
+
+
      /*Exploration paralac*/
      .container {
        /* hide fixed overflow contents */
@@ -495,7 +498,7 @@ h1{
        position: absolute;
      
        /* Make sure containers are full-width and height */
-       height: 200vh;
+       height: 150vh;
       
        width: 100%;
       
@@ -557,7 +560,7 @@ h1{
        background-position: center;
        background-attachment: fixed;
        top: 80vh;
-       height: 200vh;
+       height: 150vh;
      }
      
      .container_image .title_wrapper h1 {
@@ -566,11 +569,11 @@ h1{
      }
      
      .exploration{
-       min-height: 100vh;
+       min-height:120vh;
        padding: 2em;
        margin: auto;
        max-width: 800px;
-     }
+     } 
      
      .exploration h1 {
       font-family: 'Merriweather Sans', sans-serif;

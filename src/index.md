@@ -3,11 +3,7 @@ title:
 layout: base.njk
 tags: navItem
 pageClass: home
-
-
 ---
-
-
 
 <section class="grid1">
 <div class="layer">
