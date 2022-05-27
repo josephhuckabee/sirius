@@ -12,17 +12,21 @@ Any collection of matter in space is considered a cellestial body. Here are the 
 <section class="grid3">
 <div class="object">
 <img src="/images/universe.jpeg">
+<p class="source"><a href="https://commons.wikimedia.org/wiki/File:Observable_universe_pbudassi.png">Pablo Carlos Budassi</a> via Wikimedia Commons</p>
 </div><div>
 <h3>Universe</h3>
 <p>The universe is all of space and time and their contents, including planets, stars, galaxies, and all other forms of matter and energy. The Big Bang theory is the prevailing cosmological description of the development of the universe.</p>
+<p class="source">From <a href="https://en.wikipedia.org/wiki/Universe">Universe</a> on Wikipedia</p>
 </div>
 </section>
 <section class="grid3">
 <div class="object">
 <img src="/images/sun.jpeg">
+<p class="source"><a href="https://commons.wikimedia.org/wiki/File:The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg">NASA/SDO (AIA)</a> via Wikimedia Commons</p>
 </div><div>
 <h3>Star</h3>
-<br><p>A star is an astronomical object comprising a luminous spheroid of plasma held together by its gravity. The nearest star to Earth is the Sun. Many other stars are visible to the naked eye at night, but their immense distances from Earth make them appear as fixed points of light.</p>
+<p>A star is an astronomical object comprising a luminous spheroid of plasma held together by its gravity. The nearest star to Earth is the Sun. Many other stars are visible to the naked eye at night, but their immense distances from Earth make them appear as fixed points of light.</p>
+<p class="source">From <a href="https://en.wikipedia.org/wiki/Star">Star</a> on Wikipedia</p>
 </div>
 </div>
 </section>
