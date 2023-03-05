@@ -18,3 +18,23 @@ main, footer{
 .layer{
   background-color: transparent;
 }
+
+
+//CSS for Attribution (citing sources)
+
+.source{
+  font-size: .8rem;
+}
+
+figure{
+  margin: 0 0 1rem 0;
+  position: relative;
+
+  figcaption{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 5px 10px;
+    font-size: .85rem;
+  }
+}
